@@ -1,1 +1,1 @@
--e "#!/bin/bash\npython3 bot.py" 
+-e '#!/bin/bash\npython3 bot.py' 
