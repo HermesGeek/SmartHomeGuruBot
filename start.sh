@@ -1,1 +1,0 @@
--e "#!/bin/bash\npython3 bot.py" 
